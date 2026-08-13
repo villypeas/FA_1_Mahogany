@@ -12,7 +12,13 @@
 - x₁, y₁, x₂ and y₂
 
 ## Sample Output
-x₁ = 6, y₁ = 2, x₂ =5, y₂= 3
+x₁ = 6
+
+y₁ = 2
+
+x₂ = 5
+
+y₂ = 3
 
 The answer is 1.4142135623730951
 
